@@ -11,6 +11,11 @@ This code repository demonstrates unit test and code coverage in .Net
 
 
 
+Associated Blog Post:
+[Code Coverage in .Net 2023](https://www.alightservices.com/2023/08/29/code-coverage-in-net-2023/)
+
+
+
 The batch file shows the commands usage.
 
 > dotnet add package coverlet.collector
